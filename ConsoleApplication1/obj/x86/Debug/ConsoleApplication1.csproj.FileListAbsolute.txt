@@ -1,0 +1,17 @@
+G:\C#\PRJ\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\C#\PRJ\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+J:\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+J:\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+J:\C#\PRJ\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\C#\PRJ\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Eugene\PRJ\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Eugene\PRJ\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Eugene\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Eugene\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Eugene\C#\PRJ\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Eugene\C#\PRJ\Calculator\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Eugene\C#\PRJ\Calculator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
