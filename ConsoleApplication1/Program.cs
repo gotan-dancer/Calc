@@ -123,6 +123,12 @@ namespace ConsoleApplication1
                         memberCheck[memberCount - 1] = false;
                     }
                 }
+
+                if (memberCount >= 5)
+                {
+                    Console.WriteLine("Количество элементов больше 4");
+                    return false;
+                }
             }
 
             return memberCheck[0] && memberCheck[1] && memberCheck[2] && memberCheck[3];
