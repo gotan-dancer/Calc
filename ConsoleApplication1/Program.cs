@@ -40,6 +40,7 @@ namespace ConsoleApplication1
             {
                 memberCount++;
 
+                // Первый операнд
                 if (memberCount == 1)
                 {
                     bool isDigit = true;
@@ -66,6 +67,7 @@ namespace ConsoleApplication1
                     }
                 }
 
+                // Знак операции
                 if (memberCount == 2)
                 {
                     if (s == "*" || s == "/" || s == "+" || s == "-")
@@ -81,6 +83,7 @@ namespace ConsoleApplication1
                     }
                 }
 
+                // Второй операнд
                 if (memberCount == 3)
                 {
                     bool isDigit = true;
@@ -107,6 +110,7 @@ namespace ConsoleApplication1
                     }
                 }
 
+                // Знак равенства
                 if (memberCount == 4)
                 {
                     if (s == "=")
@@ -121,6 +125,7 @@ namespace ConsoleApplication1
                     }
                 }
 
+                // Количество элементов - больше нужного
                 if (memberCount >= 5)
                 {
                     Console.WriteLine("Количество элементов более 4");
@@ -128,6 +133,9 @@ namespace ConsoleApplication1
                 }
             }
 
+            // Возврат разбора строки
+            // Истина - в случае, если строка разобрана нормально
+            // Ложь - что-то пошло не так
             return memberCheck[0] && memberCheck[1] && memberCheck[2] && memberCheck[3];
         }
 
@@ -221,11 +229,15 @@ namespace ConsoleApplication1
 
             Operation operation = new Operation();
             
+            // Разбор строки
+            // Результаты разбора заносятся в класс Operation
+            // resultCheck - успешность разбора строки
             bool resultCheck = operation.SetOperation(words);
 
             if (resultCheck)
             {
                 Console.WriteLine("Пример составлен верно");
+                // Нахождение результата
                 float result = operation.GetOperation();
                 Console.WriteLine(result.ToString());
             }
