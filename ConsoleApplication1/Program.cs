@@ -33,7 +33,6 @@ namespace ConsoleApplication1
 
             int memberCount = 0;
 
-            //bool resultCheck = false;
             bool[] memberCheck = { false, false, false, false };
 
             // Обработка строки
@@ -45,7 +44,6 @@ namespace ConsoleApplication1
                 {
                     bool isDigit = true;
 
-                    // Обработка первого элемента строки
                     foreach (char c in s)
                     {
                         if (!(Char.IsDigit(c)))
@@ -87,7 +85,6 @@ namespace ConsoleApplication1
                 {
                     bool isDigit = true;
 
-                    // Обработка третьего элемента строки
                     foreach (char c in s)
                     {
                         if (!(Char.IsDigit(c)))
