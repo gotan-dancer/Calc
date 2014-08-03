@@ -126,7 +126,7 @@ namespace ConsoleApplication1
 
                 if (memberCount >= 5)
                 {
-                    Console.WriteLine("Количество элементов больше 4");
+                    Console.WriteLine("Количество элементов более 4");
                     return false;
                 }
             }
